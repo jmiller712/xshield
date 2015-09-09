@@ -348,5 +348,12 @@ UsedLibrary="/Applications/EAGLE-7.3.0/lbr/zilog.lbr"
 UsedLibrary="/Applications/EAGLE-7.3.0/lbr/SparkFun-Eagle-Libraries-master/SparkFun-Resistors.lbr"
 UsedLibrary="/Applications/EAGLE-7.3.0/lbr/SparkFun-Eagle-Libraries-master/SparkFun-Capacitors.lbr"
 
+[Win_1]
+Type="Control Panel"
+Loc="297 116 896 515"
+State=2
+Number=0
+
 [Desktop]
 Screen="1280 800"
+Window="Win_1"
